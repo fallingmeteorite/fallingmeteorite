@@ -19,7 +19,7 @@
 
 🎄 **Others**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akegarasu&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fallingmeteorite&layout=compact" />
 
 
 
