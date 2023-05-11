@@ -22,8 +22,8 @@
 
 🎄 **Others**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akegarasu&layout=compact" />
-<img src="https://osu-sig.vercel.app/card?user=akegarasu_akiba&mode=std&blur=6&animation=true&mini=true" />
+#<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akegarasu&layout=compact" />
+#<img src="https://osu-sig.vercel.app/card?user=akegarasu_akiba&mode=std&blur=6&animation=true&mini=true" />
 
 
 
