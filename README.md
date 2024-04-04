@@ -1,4 +1,7 @@
+# Project information
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallingmeteorite&show_icons=true&theme=radical)
 
 🍓 **About Me**
 
@@ -9,9 +12,6 @@
 
 
 
-🎄 **Others**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fallingmeteorite&layout=compact" />
 
 
 
