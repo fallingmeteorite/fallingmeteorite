@@ -1,7 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 🍓 **About Me**
 
 - 🔭 主要使用: Python，C++
