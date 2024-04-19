@@ -15,7 +15,7 @@
 
 - 🔭 Main use: Python，C++
 - 📫 E-mail: 2327667836@qq.com
-- 👯 About me: 摸鱼人
+- 👯 About me: 摸鱼快乐~
 - 🌐 Languages: English, 中文
 
 [![Readme Card](https://github-readme-activity-graph.vercel.app/graph?username=fallingmeteorite&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
