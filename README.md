@@ -1,6 +1,8 @@
 # Project information
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fallingmeteorite)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallingmeteorite&show_icons=true&theme=dark&count_private=true)
 
 # Maintenance projects
