@@ -1,16 +1,14 @@
 # Project information
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fallingmeteorite)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallingmeteorite&show_icons=true&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallingmeteorite&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 # Maintenance projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=Wraith_Toolbox&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=Wraith_Toolbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=Launcher&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=Launcher)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=Image_process_pro&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=Image_process_pro)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🍓 **About Me**
