@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <a>
-  <div align="center"> <img src="https://metrics.lecoq.io/fallingmeteorite?template=classic&config.timezone=Asia%2FShanghai"> </div>
+  <img align="right" width="450px" src="./github-metrics.svg" />
 </a>
   
 <p align="center">
@@ -10,9 +10,7 @@
   <img width="300px" src="https://github-readme-stats.vercel.app/api?username=fallingmeteorite"></img>
 </p>
 
-## 🌟 I'm fallingmeteorite
 
-- 👨🏻‍🎓A Chinese Student
 
 ## 📖 **Learning**
 
@@ -22,14 +20,5 @@
 
 ## 🌍 **Environment**
 
-![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows11&logoColor=fff)
+![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows10&logoColor=fff)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
-
-
-
-
-
-
-
-
-
