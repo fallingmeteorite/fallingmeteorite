@@ -1,8 +1,7 @@
 # Hi there 👋
 
-<a>
-  <img align="right" width="450px" src="metrics.api.github.overuse" />
-</a>
+![Metrics](https://metrics.lecoq.io/metrics.api.github.overuse?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
   
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@fallingmeteorite?theme=rule34"></img>
