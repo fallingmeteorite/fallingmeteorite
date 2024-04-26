@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <a>
-  <img align="right" width="450px" src="./github-metrics.svg" />
+  <img align="right" width="450px" src="metrics.api.github.overuse" />
 </a>
   
 <p align="center">
