@@ -10,6 +10,12 @@ Hi there 👋
 
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
+Information
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallingmeteorite&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 About Me
 
 - 🔭 Main use: Python，C++
@@ -26,8 +32,5 @@ Maintenance projects
 
 [![Readme Card](https://github-readme-activity-graph.vercel.app/graph?username=fallingmeteorite&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
 
-Information
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallingmeteorite&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
