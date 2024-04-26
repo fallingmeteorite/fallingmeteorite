@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <a>
-  <img align="right" width="450px" src="./github-metrics.svg" />
+  <div align="center"> <img src="https://metrics.lecoq.io/fallingmeteorite?template=classic&config.timezone=Asia%2FShanghai"> </div>
 </a>
   
 <p align="center">
