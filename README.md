@@ -4,8 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallingmeteorite&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallingmeteorite&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 <img align="right" width="450px" src="./github-metrics.svg" />
 
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
