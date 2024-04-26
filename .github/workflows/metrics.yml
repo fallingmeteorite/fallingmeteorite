@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: zhulinyv
+          user: fallingmeteorite
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
@@ -34,7 +34,7 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          plugin_activity_skipped: zhulinyv
+          plugin_activity_skipped: fallingmeteorite
           plugin_activity_visibility: public
           plugin_calendar: yes
           plugin_calendar_limit: 1
