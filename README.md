@@ -1,22 +1,32 @@
 # Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/fallingmeteorite?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
+<a>
+  <img align="right" width="450px" src="./github-metrics.svg" />
+</a>
+  
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@fallingmeteorite?theme=rule34"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite&layout=compact"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api?username=fallingmeteorite"></img>
 </p>
 
+## 🌟 I'm fallingmeteorite
 
-🍓 **About Me**
+- 👨🏻‍🎓A Chinese Student
 
-- 🔭 Main use: Python，C++
-- 📫 E-mail: 2327667836@qq.com
-- 👯 About me: 摸鱼快乐~
-- 🌐 Languages: English, 中文
+## 📖 **Learning**
 
-[![Readme Card](https://github-readme-activity-graph.vercel.app/graph?username=fallingmeteorite&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
+
+
+## 🌍 **Environment**
+
+![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows11&logoColor=fff)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
+
+
+
 
 
 
