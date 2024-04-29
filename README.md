@@ -16,8 +16,6 @@ About Me
 - 👯 About me: 摸鱼快乐~
 - 🌐 Languages: English, 中文
 
-Maintenance projects
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=Wraith_Toolbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=Easy_Launcher)](https://github.com/anuraghazra/github-readme-stats)
