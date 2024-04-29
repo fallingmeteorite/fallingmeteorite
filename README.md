@@ -5,7 +5,7 @@ Hi there 👋
   
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@fallingmeteorite?theme=rule34"></img>
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite&layout=compact"></img>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite&count_private=true"></img>
   <img width="300px" src="https://github-readme-stats.vercel.app/api?username=fallingmeteorite"></img>
 </p>
 
