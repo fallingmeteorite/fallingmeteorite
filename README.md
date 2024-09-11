@@ -1,6 +1,6 @@
 Hi there 👋
 <a>
-  <img align="right" width="450px" src="./github-metrics.svg" />
+  <img align="right" width="420px" src="./github-metrics.svg" />
 </a>
 
 About Me
