@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1201" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="820" class="">
     <defs>
         <style/>
     </defs>
@@ -469,104 +469,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 86 commits in
-                                        <span class="repo">fallingmeteorite/imgutils</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5a407c5</div>
-                                        <div class="message">dev(narugo): use version v0.9.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e8a796</div>
-                                        <div class="message">Merge pull request #136 from deepghs/dev/transformers
-
-dev(narugo): prepare for the clip preprocessor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92633f4</div>
-                                        <div class="message">dev(narugo): export transformers</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f90c64</div>
-                                        <div class="message">dev(narugo): add siglip docs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0fb2e7</div>
-                                        <div class="message">dev(narugo): add siglip</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee904db</div>
-                                        <div class="message">dev(narugo): add docs for vit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ff6232</div>
-                                        <div class="message">dev(narugo): add support for vit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#669ddcd</div>
-                                        <div class="message">dev(narugo): add torchvisions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f175c85</div>
-                                        <div class="message">dev(narugo): add torchvisions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c654427</div>
-                                        <div class="message">dev(narugo): update Repos Count</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee23dc2</div>
-                                        <div class="message">dev(narugo): update Repos Count</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8100bd2</div>
-                                        <div class="message">dev(narugo): update Repos Count</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a37e13</div>
-                                        <div class="message">dev(narugo): add this full docs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac4d322</div>
-                                        <div class="message">dev(narugo): add the doc framework of transformers</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6c8d1f</div>
-                                        <div class="message">dev(narugo): add convnext support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a741eb</div>
-                                        <div class="message">dev(narugo): test transformers clip with real cases</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85ca2b7</div>
-                                        <div class="message">dev(narugo): add 2 more pillow transforms</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de4f6b8</div>
-                                        <div class="message">dev(narugo): add 2 more pillow transforms</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f411eb0</div>
-                                        <div class="message">dev(narugo): add frames</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7697fc2</div>
-                                        <div class="message">dev(narugo): prepare for the clip preprocessor</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -590,7 +492,7 @@ dev(narugo): prepare for the clip preprocessor</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Mar 2025, 10:26:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Mar 2025, 11:26:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
