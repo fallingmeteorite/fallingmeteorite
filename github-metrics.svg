@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="820" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1201" class="">
     <defs>
         <style/>
     </defs>
@@ -607,6 +607,110 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 113 commits in
+                                        <span class="repo">fallingmeteorite/imgutils</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1ebc45c</div>
+                                        <div class="message">dev(narugo): use version v0.14.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3022791</div>
+                                        <div class="message">Merge pull request #156 from deepghs/dev/url
+
+dev(narugo): fix a bug on github URLs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccc3bda</div>
+                                        <div class="message">dev(narugo): fix a bug on github URLs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db28bc3</div>
+                                        <div class="message">dev(narugo): use vervion v0.14.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc1dedc</div>
+                                        <div class="message">Merge pull request #155 from deepghs/dev/download
+
+dev(narugo): add image download function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa4cb07</div>
+                                        <div class="message">dev(narugo): add unittest for blob url loading</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#437bee4</div>
+                                        <div class="message">dev(narugo): add url support for load_image function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7daaae6</div>
+                                        <div class="message">Merge branch 'main' into dev/download</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adf96eb</div>
+                                        <div class="message">dev(narugo): add pydocs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#252a1f2</div>
+                                        <div class="message">Merge pull request #154 from deepghs/dev/mit
+
+dev(narugo): fix licence issue in setup.py, and some more pypi classifiers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#324c812</div>
+                                        <div class="message">dev(narugo): add unittest for url functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1fe0f4</div>
+                                        <div class="message">dev(narugo): fix licence issue in setup.py, and some more pypi classifiers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfb10ec</div>
+                                        <div class="message">dev(narugo): use version v0.13.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea23ec1</div>
+                                        <div class="message">Merge pull request #153 from deepghs/dev/blob
+
+dev(narugo): add convertion functions between images and blob urls</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2f55f8</div>
+                                        <div class="message">dev(narugo): use dataset.zip instead of seperated image files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf491c5</div>
+                                        <div class="message">dve(narugo): add support for blob urls in load_image functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02f5525</div>
+                                        <div class="message">dev(narugo): add unittest completed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0de331</div>
+                                        <div class="message">dev(narugo): add unittest for blob url export and invalid case</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c26c2a</div>
+                                        <div class="message">dev(narugo): add cross test</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c798d4</div>
+                                        <div class="message">dev(narugo): add blob url support for images</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">fallingmeteorite/task_scheduling</span>
                                     </div>
@@ -643,7 +747,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jul 2025, 06:12:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2025, 07:12:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
