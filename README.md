@@ -6,7 +6,7 @@ Hi there 👋
 
 About Me
 
-- 🔭 Main use: Python，C/C++
+- 🔭 Main use: Python, C(正在学习), Rust(正在学习)
 - 📫 E-mail: 2327667836@qq.com
 - 👯 About me: 摸鱼快乐~
 - 🌐 Languages: English, 中文
