@@ -22,8 +22,10 @@ About Me
 
 [![Readme Card](https://github-readme-activity-graph.vercel.app/graph?username=fallingmeteorite&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
 
+<a>
+  <img align="right"  width="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=nsfw-image-check-comfyui&show_owner=true" /></img>
+</a>
 
 <a>
-  <img align="right"  width="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=nsfw-image-check-comfyui" /></img>
-  <img align="left"  width="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=task_scheduling" /></img>
+  <img align="left"  width="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=fallingmeteorite&repo=task_scheduling&show_owner=true"" /></img>
 </a>
