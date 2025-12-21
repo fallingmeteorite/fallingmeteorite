@@ -25,6 +25,3 @@ About Me
 
 [![Readme Card](https://github-readme-activity-graph.vercel.app/graph?username=fallingmeteorite&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
 
-<a>
-  <img src="https://github-profile-trophy.vercel.app/?username=fallingmeteorite" /></img>
-</a>
