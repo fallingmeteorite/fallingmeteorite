@@ -9,15 +9,15 @@ About Me
 - 🌐 Languages: English, 中文
   
 <a>
-   <img width="280px" src="https://github-readme-stats.vercel.app/api?username=fallingmeteorite" /></img>
+   <img width="260px" src="https://github-readme-stats.vercel.app/api?username=fallingmeteorite" /></img>
 </a>
 
 <a>
-  <img width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite&langs_count=8&layout=donut" /></img>
+  <img width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallingmeteorite&langs_count=8&layout=donut" /></img>
 </a>
 
 <a>
-  <img width="280px" src="https://github-readme-streak-stats.herokuapp.com/?user=fallingmeteorite" /></img>
+  <img width="260px" src="https://github-readme-streak-stats.herokuapp.com/?user=fallingmeteorite" /></img>
 </a>
 
 [![Readme Card](https://github-readme-activity-graph.vercel.app/graph?username=fallingmeteorite&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
