@@ -20,10 +20,6 @@ About Me
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=fallingmeteorite&theme=dark" />
-</a>
-
-<a>
   <img width="260px" src="https://github-readme-streak-stats.herokuapp.com/?user=fallingmeteorite" /></img>
 </a>
 
