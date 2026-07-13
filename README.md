@@ -9,7 +9,7 @@ About Me
 - 🌐 Languages: English, 中文
   
 <a>
-   <img width="260px" src="[https://github-readme-stats.vercel.app/api?username=fallingmeteorite](https://github-readme-streak-stats.herokuapp.com/?user=fallingmeteorite)" /></img>
+   <img width="260px" src="https://github-readme-streak-stats.herokuapp.com/?user=fallingmeteorite" /></img>
 </a>
 
 [![Readme Card](https://github-readme-activity-graph.vercel.app/graph?username=fallingmeteorite&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
